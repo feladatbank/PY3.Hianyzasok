@@ -13,3 +13,26 @@ szeptemberben" szöveget jelenítse meg
 bekért napon hiányoztak! (Ha a 3. feladatot nem tudta megoldani, akkor a 19-ei nappal
 dolgozzon!) Ha nem volt hiányzó, akkor a ,,Nem volt hiányzó" szöveget jelenítse
 meg!
+
+
+minta
+
+
+2. feladat 
+      Összes mulasztott órák száma: 549.
+3. feladat: 
+Kérem adjon meg egy napot: 19
+Tanuló neve: Kis Katalin
+4. feladat 
+A tanuló hiányzott szeptemberben  
+5. feladat: Hiányzók 2017.09.19-n:
+               Fekete Viktória 3a 
+               Fekete Zsolt 4a    
+               Fodor Éva 4a       
+               Hegedűs Andrea 6b
+               Katona Ágnes 7b
+               Lukács Eszter 5a
+               Nagy Mihály 6b
+               Pintér Ferenc 3a
+               Szilágyi Ildikó 3a
+               Török Viktória 6a
