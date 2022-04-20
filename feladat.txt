@@ -1,0 +1,15 @@
+1. Tárolja el a fájlok tartalmát olyan adatszerkezetben, amivel a további feladatok
+megoldhatók!
+2. Határozza meg, és írja ki a képernyőre, hogy a diákok összesen hány órát mulasztottak
+ebben a hónapban.
+3. Kérjen be a felhasználótól
+egy napot 1 és 30 között
+egy tanuló nevét
+4. Írja ki a
+képernyőre, hogy az előző feladatban beért tanulónak volt-e hiányzása! A „A
+tanuló hiányzott szeptemberben" vagy ,,A tanuló nem hiányzott
+szeptemberben" szöveget jelenítse meg
+5. Írja ki a képernyőre azon tanulók nevét és osztályát a minta szerint, akik a 3. feladatban
+bekért napon hiányoztak! (Ha a 3. feladatot nem tudta megoldani, akkor a 19-ei nappal
+dolgozzon!) Ha nem volt hiányzó, akkor a ,,Nem volt hiányzó" szöveget jelenítse
+meg!
