@@ -20,18 +20,17 @@ with open("szeptember.csv", encoding="UTF-8")as f:
     lista   = [Szeptember(sor) for sor in f]
 
 #2.feladat
-
 mulasztas = [sor.mulasztott_orak for sor in lista]
 
 print(f"2. feladat \n      Összes mulasztott órák száma: {sum(mulasztas)}.")
 
 #3.feladat
-
+print("3.feladat:")
 nap     = input("Kérem adjon meg egy napot: ")
 tanulo  = input("Tanuló neve: ")
 
 #4. feladat 
-
+print("4.feladat:")
 hianyzasok = [sor.nev for sor in lista if sor.nev == tanulo]
 
 if len(hianyzasok) != 0:
