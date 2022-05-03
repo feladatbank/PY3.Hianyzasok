@@ -6,7 +6,7 @@ ebben a hónapban.
 egy napot 1 és 30 között
 egy tanuló nevét
 4. Írja ki a
-képernyőre, hogy az előző feladatban beért tanulónak volt-e hiányzása! A „A
+képernyőre, hogy az előző feladatban bekért tanulónak volt-e hiányzása! A „A
 tanuló hiányzott szeptemberben" vagy ,,A tanuló nem hiányzott
 szeptemberben" szöveget jelenítse meg
 5. Írja ki a képernyőre azon tanulók nevét és osztályát a minta szerint, akik a 3. feladatban
